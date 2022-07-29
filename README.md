@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuehasspereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuehasspereira&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+ 
   
   
   
