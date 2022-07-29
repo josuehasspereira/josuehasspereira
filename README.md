@@ -9,8 +9,8 @@
 ## Olá, Seja Bem-Vindo ao perfil de Josué Hass Pereira!
 <div align="center">
   <a href="https://github.com/josuehasspereira">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=josuehasspereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuehasspereira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=josuehasspereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuehasspereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
   
