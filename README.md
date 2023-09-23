@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 ## Olá, Seja Bem-Vindo ao perfil de Josué Hass Pereira!👋
 <div align="center">
   <a href="https://github.com/josuehasspereira">
